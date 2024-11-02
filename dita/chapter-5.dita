@@ -19,6 +19,10 @@
                 Her world now was filled with the sweet joy of her child, and she believed the past
                 was behind her. </p>
         </section>
+        <fig id="fig_qk4_x4b_gdc">
+            <image href="firstborn.jpg" id="image_rnr_1pb_gdc"
+                alt="The queen celebrates her firstborn child."/>
+        </fig>
         <section id="section_kjs_scb_gdc">
             <title>Rumpelstiltskin Returns</title>
             <p>But one evening, the little man appeared before her once again, emerging from the
@@ -31,5 +35,9 @@
                 <ph audience="children">refused to change his mind</ph>, intent on taking what he
                 believed was rightfully his. </p>
         </section>
+        <fig id="fig_rts_tnb_gdc">
+            <image href="comesforthechild.jpg" id="image_adm_5nb_gdc"
+                alt="Rumpelstiltskin returns to claim the queen's firstborn."/>
+        </fig>
     </body>
 </topic>
