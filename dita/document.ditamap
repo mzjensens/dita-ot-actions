@@ -3,4 +3,11 @@
 <map>
     <title>MJ_Rumpelstiltskin</title>
   <topicref href="index.dita"/>
+  <topicref href="chapter-1.dita"/>
+  <topicref href="chapter-2.dita"/>
+  <topicref href="chapter-3.dita"/>
+  <topicref href="chapter-4.dita"/>
+  <topicref href="chapter-5.dita"/>
+  <topicref href="chapter-6.dita"/>
+  <topicref href="chapter-7.dita"/>
 </map>
